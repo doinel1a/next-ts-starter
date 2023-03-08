@@ -2,8 +2,8 @@
 import '@/css/globals.css';
 import '@/scss/globals.scss';
 
-import { Roboto } from '@next/font/google';
 import type { AppProps } from 'next/app';
+import { Roboto } from 'next/font/google';
 import React from 'react';
 
 const roboto = Roboto({
